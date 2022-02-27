@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Organizze</string>
+    <string name="CADASTRESE">CADASTRE-SE</string>
+    <string name="Descricao">Junte-se a mais de um milhão de pessoas e comece já</string>
+    <string name="Crie_Conta">Crie sua Conta Grátis</string>
+    <string name="Ja_Conta">Já tenho Conta</string>
+
+    <!--CADASTRO -->
+    <string name="Nome">Nome</string>
+    <string name="Email">E-mail</string>
+    <string name="Senha">Senha</string>
+    <string name= "Termo">Termos de Uso</string>
+
+    <!--Login -->
+    <string name="Login">Login</string>
+
+
+</resources>

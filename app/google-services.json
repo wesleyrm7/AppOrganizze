@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367756820953",
+    "project_id": "projetos-aplicativos",
+    "storage_bucket": "projetos-aplicativos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367756820953:android:497e4332e906f98a7959c8",
+        "android_client_info": {
+          "package_name": "com.example.organizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367756820953-arj6i6tnfkmgpiotbvl1v9ai3d8ae84v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ffkNY4vXdwgOfGg6A_943UeEWmBa-0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367756820953-arj6i6tnfkmgpiotbvl1v9ai3d8ae84v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
