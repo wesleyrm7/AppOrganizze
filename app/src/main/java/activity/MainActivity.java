@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
               //acao
               btCadastro(view);
 
-
+//
           }
       });
 

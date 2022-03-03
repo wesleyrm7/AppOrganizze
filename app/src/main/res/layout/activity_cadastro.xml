@@ -62,7 +62,7 @@
         android:drawableLeft="@drawable/ic_cadeado"
         android:ems="10"
         android:hint="@string/Senha"
-        android:inputType="textPersonName"
+        android:inputType="numberPassword"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
