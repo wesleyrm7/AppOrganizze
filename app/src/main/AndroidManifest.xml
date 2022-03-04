@@ -10,6 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Organizze">
         <activity
+            android:name="activity.DespesasActivity"
+            android:theme="@style/despesaThema"
+            android:exported="false" />
+        <activity
+            android:name="activity.ReceitasActivity"
+            android:theme="@style/receitaThema"
+            android:exported="false" />
+        <activity
             android:name="activity.PrincipalActivity"
             android:exported="false"
             android:label="@string/title_activity_principal"
