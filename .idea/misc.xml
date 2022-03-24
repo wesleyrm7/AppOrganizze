@@ -4,13 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/drawable/_addbranco.xml" value="0.21927083333333333" />
+        <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/drawable/confirmar_branco.xml" value="0.14537037037037037" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/drawable/ic_pessoa.xml" value="0.1398148148148148" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_cadastro.xml" value="0.1859375" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_despesas.xml" value="0.1890625" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_main.xml" value="0.3564102564102564" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_principal.xml" value="0.2" />
-        <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_receitas.xml" value="0.13703703703703704" />
+        <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/activity_receitas.xml" value="0.25" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/content_principal.xml" value="0.2" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/fragment_first.xml" value="0.2" />
         <entry key="..\:/WorkSpaceAndroidStudio/Organizze/app/src/main/res/layout/fragment_second.xml" value="0.203125" />
